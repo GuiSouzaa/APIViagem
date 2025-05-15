@@ -34,3 +34,4 @@ C:\Users\Guilh\OneDrive\Documents\Dev\APIViagem\obj\Debug\net9.0\ref\APIViagem.d
 C:\Users\Guilh\OneDrive\Documents\Dev\APIViagem\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Guilh\OneDrive\Documents\Dev\APIViagem\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Guilh\OneDrive\Documents\Dev\APIViagem\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Guilh\OneDrive\Documents\Dev\APIViagem\obj\Debug\net9.0\APIViagem.sourcelink.json

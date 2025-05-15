@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 namespace APIViagem.Models
 {
+    // Essa classe recebe os dados de input do app mobile.
     public class DadosViagem
     {
         public string LocalPartida { get; set; }

@@ -1,21 +1,22 @@
 using APIViagem.Models;
 
+
 namespace APIViagem.Services
 {
-    public static class IAService
+    public class IAService
     {
-        public static Task<object> CalcularMelhorRota(DadosViagem dados)
+        public ResultadoViagem ObterResultadoDaIA(DadosViagem dados)
         {
-            // Simulando cálculo inteligente da IA
-            var resultado = new
+            // Aqui vou apenas simular os dados, no futuro vou realizar a chamada real da IA.
+            // Esses valores todos são pegos das minhas classes.
+            return new ResultadoViagem
             {
-                RotaEscolhida = $"{dados.LocalPartida} -> {dados.LocalDestino}",
-                TempoEstimado = "5h 30min",
-                CustoEstimado = 350.00,
-                RodaRecomendada = "Roda Premium 18\""
+                Rota = $"{dados.LocalPartida} -> {dados.LocalDestino}",
+                DistanciaKM = 150.5,
+                TempoEstimado = "2h 30min",
+                TipoTransporte = "UberX",
+                PrecoEstimado = 120.75
             };
-
-            return Task.FromResult<object>(resultado);
         }
     }
 }
