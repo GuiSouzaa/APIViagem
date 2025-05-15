@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIViagem", "APIViagem.csproj", "{418DEF3D-5BE2-48B7-1CC7-DC2480CCC0BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{418DEF3D-5BE2-48B7-1CC7-DC2480CCC0BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{418DEF3D-5BE2-48B7-1CC7-DC2480CCC0BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{418DEF3D-5BE2-48B7-1CC7-DC2480CCC0BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{418DEF3D-5BE2-48B7-1CC7-DC2480CCC0BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7AFFB75-6067-4277-A2E7-5966C12FE867}
+	EndGlobalSection
+EndGlobal
