@@ -12,7 +12,7 @@ namespace APIViagem.Services
             return new ResultadoViagem
             {
                 Rota = $"{dados.LocalPartida} -> {dados.LocalDestino}",
-                DistanciaKM = 150.5,
+                DistanciaKM = 15.5,
                 TempoEstimado = "2h 30min",
                 TipoTransporte = "UberX",
                 PrecoEstimado = 120.75
