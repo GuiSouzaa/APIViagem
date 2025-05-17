@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIViagem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c4da98251815447a492ff6f983e5f09c9e0690c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01564f70cd70de879a28646ebf553c1e628b5f66")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIViagem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIViagem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
